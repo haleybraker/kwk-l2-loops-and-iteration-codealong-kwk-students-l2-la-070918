@@ -18,4 +18,3 @@ while (tailsNeverFails()) {
 }
 
 // return `You got ${tailsNeverFails} tails in a row!`
-tailsNeverFails()
