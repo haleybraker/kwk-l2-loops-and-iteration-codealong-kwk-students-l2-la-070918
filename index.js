@@ -9,4 +9,6 @@ console.log(`Welcome ${namesArray[i]}! You are employee #${i+1}.`)
 return namesArray
 }
 
-function tails
+function tailsNeverFails(){
+  return Math.random () >= 0.5;
+}
