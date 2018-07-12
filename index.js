@@ -1,16 +1,15 @@
 // Code your solutions in this file
 
-//const names = ['Ada', 'Brendan', "Ali"]
+const names = ['Ada', 'Brendan', "Ali"]
 
-//function printBadges(names) {
- // console.log(printBadges)
-//}
+function printBadges(namesArray) {
+ for (let i = 0; i < namesArray.length; i++) {
+console.log(printBadges)
+}
+}
 
-//for (var i = 0; i < 3; i++) {
-//console.log(printBadges)
-//}
-
-printBadges(['Ada', 'Brendan', 'Ali']);
+printBadges(names)
+//printBadges(['Ada', 'Brendan', 'Ali']);
 
 
 
