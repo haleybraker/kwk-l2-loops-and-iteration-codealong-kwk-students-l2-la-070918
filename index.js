@@ -1,9 +1,9 @@
 // Code your solutions in this file
 
-const names = ['Ada', 'Brendan', "Ali"]
+// const names = ['Ada', 'Brendan', "Ali"]
 
 function printBadges(namesArray) {
- for (let i = 0; i < names.length; i++) {
+ for (let i = 0; i < namesArray.length; i++) {
 console.log('Welcome ' ,namesArray, '! You are employee #',printBadges, ".")
 }
 }
