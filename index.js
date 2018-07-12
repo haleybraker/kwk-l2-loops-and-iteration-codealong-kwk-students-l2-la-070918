@@ -14,5 +14,5 @@ function tailsNeverFails(){
 }
 
 while (tailsNeverFails()) {
-  
+  console.log()
 }
