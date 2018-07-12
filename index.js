@@ -2,8 +2,8 @@
 
 const names = ['Ada', 'Brendan', "Ali"]
 
-function printadges (names) {
-  console.log(printbadges)
+function printBadges (names) {
+  console.log(printBadges)
 };
 
 for (var count = 0; count < 3; count++) {
