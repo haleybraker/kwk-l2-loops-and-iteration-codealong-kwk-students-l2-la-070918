@@ -9,8 +9,4 @@ console.log(`Welcome ${namesArray[i]}! You are employee #${i+1}.`)
 return namesArray
 }
 
-// printBadges(names)
-//printBadges(['Ada', 'Brendan', 'Ali']);
-
-
-// 'Welcome Joe! You are employee #1.
+function 
