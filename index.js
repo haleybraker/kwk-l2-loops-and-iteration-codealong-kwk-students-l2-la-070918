@@ -4,7 +4,7 @@ const names = ['Ada', 'Brendan', "Ali"]
 
 function printBadges(namesArray) {
  for (let i = 0; i < namesArray.length; i++) {
-console.log("Welcome ",printBadges)
+console.log('Welcome' ${names} ,printBadges)
 }
 }
 
