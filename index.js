@@ -2,7 +2,7 @@
 
 const names = ['Ada', 'Brendan', "Ali"]
 
-function printBadges (names) {
+function printadges (names) {
   console.log(printbadges)
 };
 
