@@ -2,11 +2,11 @@
 
 const names = ['Ada', 'Brendan', "Ali"]
 
-function printBadges (names) {
+function printBadges(names) {
   console.log(printBadges)
 }
 
-for (var count = 0; count < 3; count++) {
+for (var i = 0; i < 3; i++) {
 console.log(printBadges)
 }
 
