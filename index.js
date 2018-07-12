@@ -14,5 +14,5 @@ function tailsNeverFails(){
 }
 
 while (tailsNeverFails()) {
-  console.log('You got 2 tails in a row')
+  console.log(`You got ${tailNeverFails} tails in a row`)
 }
