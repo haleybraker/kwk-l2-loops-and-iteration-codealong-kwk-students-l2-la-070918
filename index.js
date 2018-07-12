@@ -4,7 +4,7 @@
 
 function printBadges(namesArray) {
  for (let i = 0; i < namesArray.length; i++) {
-console.log('Welcome ' ,namesArray[i], '! You are employee #',i+1, ".")
+console.log('Welcome ' ,[i], '! You are employee #',i+1, ".")
 }
 return namesArray
 }
