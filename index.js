@@ -1,6 +1,10 @@
 // Code your solutions in this file
 
-printBadges (['Ada', 'Brendan', "Ali"]);
+const names = ['Ada', 'Brendan', "Ali"]
+
+function printBadges (names) {
+  console.log(printbadges)
+};
 
 for (var count = 0; count < 3; count++) {
 console.log(printBadges)
