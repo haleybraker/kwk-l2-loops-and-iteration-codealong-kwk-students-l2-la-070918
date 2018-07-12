@@ -12,7 +12,7 @@ return namesArray
 function tailsNeverFails(){
   let count = 0
   while (Math.random() >= 0.5) {
-    //do something
+    count ++
   }
   return (`You got ${count} tails in a row!`)
 }
