@@ -9,4 +9,4 @@ console.log(`Welcome ${namesArray[i]}! You are employee #${i+1}.`)
 return namesArray
 }
 
-function 
+function tails
